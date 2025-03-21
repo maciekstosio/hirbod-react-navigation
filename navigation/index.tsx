@@ -27,7 +27,7 @@ export default function RootStack() {
           }}
         />
         <Stack.Screen
-          name="Form1"
+          name="Form2"
           component={Form2}
           options={{
             presentation: 'formSheet',
